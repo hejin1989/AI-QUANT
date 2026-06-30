@@ -1,0 +1,38 @@
+[
+  {
+    "code": "30981",
+    "trade_date": "20260331",
+    "ts_code": "688981.SH",
+    "name": "中芯國際",
+    "vol": 7997298,
+    "ratio": 0.39,
+    "exchange": "SH"
+  },
+  {
+    "code": "30981",
+    "trade_date": "20251231",
+    "ts_code": "688981.SH",
+    "name": "中芯國際",
+    "vol": 4692335,
+    "ratio": 0.23,
+    "exchange": "SH"
+  },
+  {
+    "code": "30981",
+    "trade_date": "20250930",
+    "ts_code": "688981.SH",
+    "name": "中芯國際",
+    "vol": 7371125,
+    "ratio": 0.36,
+    "exchange": "SH"
+  },
+  {
+    "code": "30981",
+    "trade_date": "20250630",
+    "ts_code": "688981.SH",
+    "name": "中芯國際",
+    "vol": 63499339,
+    "ratio": 3.19,
+    "exchange": "SH"
+  }
+]
